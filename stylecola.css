@@ -1,0 +1,145 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.parent{
+    height: 100vh;
+    background-image: radial-gradient(circle,red ,rgb(150, 2, 2));
+    
+    
+}
+nav{
+    display: flex;
+    justify-content: space-between; 
+}
+a{
+    text-decoration: none;
+    
+    color: white;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: end;
+    padding: 0 50px;
+    margin: 20px;
+
+   
+}
+.img1{
+    width: 80px;
+    margin: 20px 60px;
+}
+span{
+    font-size: 60px;
+}
+.e h1{
+    font-size: 35px;
+    width: 270px;
+    margin: 20px;
+    padding: 0 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    color: white;
+   
+}
+
+#parent2{
+    display: flex;
+    flex-direction:row ;
+    justify-content: space-between;
+    
+    height: 60vh;
+    width: 100%;
+    
+    
+    
+}
+
+p{
+    margin: 20px;
+    padding: 0 50px;
+    color: white;
+}
+button{
+    border: 1px solid black;
+    background-color: gold;
+    border-radius: 10px;
+    width: 100px;
+    margin: 0 70px;
+    padding: 4px;
+   
+}
+#img2 {
+      width: 300px;
+      display: flex;
+      justify-content: end;
+      
+      
+}
+.f{
+    width: 600px;
+    margin-right: 800px;
+}
+.r{
+    width: 20%;
+    margin: 0;
+    padding: 0;
+}
+#l{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: flex-end;
+   
+    
+}
+#parent3{
+background-color: rgb(107, 12, 12);
+height: 100vh;
+}
+#h1{
+    text-align: center;
+    padding-top: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+
+}
+#hr{
+    margin: 0 auto;
+}
+#parent4{
+    display: flex;
+    
+
+}
+.c1{
+    background-color: white;
+    margin: 30px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    
+   
+}
+.star{
+    width: 5%;
+}
+.pra{
+    color: black;
+}
+.c1 img{
+    border-radius: 300px;
+    justify-content: center;
+    
+    
+}
+.c1 h1{
+    text-align: center;
+}
+#smallc img{
+    
+}
